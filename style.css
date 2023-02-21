@@ -1,0 +1,232 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.row1{
+    border: 1px;
+    background-color: rgb(235, 235, 235);
+    height: 25px;
+    width: 100%;
+}
+.row1 img{
+    margin-left: 300px;
+}
+.row2{
+    border: 1px;
+    background-color: white;
+    height: 50px;
+    width: 100%;
+    display: flex;
+}
+.row2 .logonike{
+    margin-left: 300px;
+    margin-top: 10px;
+}
+.row2 .gender{
+    margin-left: 600px;
+    margin-top: 20px;
+}
+.gender a{
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+}
+.row2 .searchbar{
+    margin-top: 10px;
+    margin-left: 460px;
+}
+.searchbar input{
+    height: 30px;
+    outline: none;
+    border: 1px white solid;
+    background-color: rgb(235, 235, 235);
+    border-radius: 20px;
+}
+.row2 .icon1{
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.icon1 img{
+    margin-left: 20px;
+}
+.row3{
+    border: 1px;
+    background-color: rgb(235, 235, 235);
+    height: 50px;
+    width: 100%;
+}
+.row4 .status{
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.row4 .status2{
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.row4 .status3{
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.row4 .status4{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 1065px;
+}
+.status4 button{
+    height: 45px;
+    width: 120px;
+    margin-left: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+}
+.row5{
+    border: 1px;
+    background-color: white;
+    height: 50px;
+    width: 100%;
+}
+.row5 label{
+    margin-left: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+.row6{
+    border: 1px;
+    background-color: white;
+    height: 970px;
+    width: 100%;
+}
+.row6 .status{
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.row6 .status2{
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.row6 .status3{
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.row6 .status4{
+    margin-top: 30px;
+}
+.row7{
+    border: 1px;
+    background-color: white;
+    height: 800px;
+    width: 100%;
+    display: flex;
+}
+.row7 .dontmissimg{
+    margin-left: 500px;
+}
+.row7 .dontmissimg2{
+    margin-left: 10px;
+}
+.row8{
+    border: 1px;
+    background-color: white;
+    height: 535px;
+    width: 100%;
+    padding-bottom: 100px;
+    display: flex;
+}
+.row8 .sanpham1{
+    margin-left: 500px;
+}
+.sanpham1{
+    border: 1px;
+    height: 550px;
+}
+.banggia{
+    display: flex;
+}
+.banggia a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    padding-bottom: 7px;
+}
+.gia{
+    margin-left: 150px;
+}
+.gia2{
+    margin-left: 300px;
+}
+.gia3{
+    margin-left: 310px;
+}
+.sanpham1 p{
+    color: rgb(147, 147, 147);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.row8 .sanpham2{
+    margin-left: 10px;
+}
+.sanpham2{
+    border: 1px;
+    height: 550px;
+}
+.sanpham2 p{
+    color: rgb(147, 147, 147);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.row9{
+    border: 1px;
+    background-color: white;
+    height: 1360px;
+    width: 100%;
+}
+.row9 .status{
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.row9 .status2{
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.row9 .status3{
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.row9 .status4{
+    margin-top: 30px;
+}
+.row10{
+    border: 1px;
+    background-color: black;
+    height: 300px;
+    width: 100%;
+    display: flex;
+}
+.row10 .end{
+    margin-top: 50px;
+    margin-left: 500px;
+}
+.end a{
+    color: white;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+.row10 .end2{
+    margin-top: 50px;
+    margin-left: 200px;
+}
+.end2 a{
+    color: white;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.row10 .end3{
+    margin-top: 50px;
+    margin-left: 200px;
+}
+.end3 a{
+    color: white;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
